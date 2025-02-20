@@ -6,4 +6,8 @@
 
 ✅ 增加功能（ARIA 無障礙設計、AOS 動畫效果、SweetAlert）
 
+[AOS 動畫效果](https://michalsnik.github.io/aos/)
+
+[sweetalert2](https://sweetalert2.github.io/)
+
 [運用 PageSpeed 工具來分析和最佳化網站](https://pagespeed.web.dev/)
